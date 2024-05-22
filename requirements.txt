@@ -1,0 +1,4 @@
+gym==0.26.2
+readchar
+imageio
+scikit-learn
